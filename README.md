@@ -1,5 +1,5 @@
 # Taylor Swift Animated Page 
-![Taytay](https://user-images.githubusercontent.com/65264902/100521236-0c30d080-3181-11eb-99e2-09e97f54efb9.png)
+![Taytay](https://user-images.githubusercontent.com/65264902/100521236-0c30d080-3181-11eb-99e2-09e97f54efb9.png width="200" height="200")
 > Parte dos meus desafios, e aprendizados em Css. 
 ### Projeto :
 
