@@ -1,4 +1,4 @@
-```
+
 
   particlesJS('particles',
 
@@ -135,6 +135,6 @@
     }
 
   );
-```
+
 
 
