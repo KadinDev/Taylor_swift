@@ -4,7 +4,7 @@
 ### Projeto :
 
  - [x] Página inicial animada usando [particles.js](https://vincentgarreau.com/particles.js/) 
- > **Particles.js**
+ > **Particles.js** <br/>
  >No **index.js** é feita a configuração, como:
  
 
