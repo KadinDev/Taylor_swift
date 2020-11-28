@@ -1,6 +1,4 @@
-
-
-
+```js
 var pJS = function(tag_id, params){
 
   var canvas_el = document.querySelector('#'+tag_id+' > .particles-js-canvas-el');
