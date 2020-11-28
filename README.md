@@ -1,5 +1,5 @@
 # Taylor Swift Animated Page 
-![enter image description here](https://jpimg.com.br/uploads/2019/08/taylor-swift-vmas-2019.jpg)
+![Taytay](https://user-images.githubusercontent.com/65264902/100521236-0c30d080-3181-11eb-99e2-09e97f54efb9.png)
 > Parte dos meus desafios, e aprendizados em Css. 
 ### Projeto :
 
